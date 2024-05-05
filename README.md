@@ -1,2 +1,3 @@
 # Diabetes
-This repository showcases predictive models on the Diabetes dataset using IBM SPSS Modeler. Algorithms include KNN, Neural Networks, SVM, CART, QUEST, CHAID, 5C, and Random Forest.
+This repository hosts a predictive modeling project focused on the Diabetes dataset, which is readily available on Kaggle. Our approach involves leveraging the IBM SPSS Modeler tool to create and evaluate models using various algorithms, including K-Nearest Neighbors (KNN), Neural Networks, Support Vector Machines (SVM), Classification and Regression Trees (CART), Quick, Unbiased, Efficient Statistical Trees (QUEST), Chi-Squared Automatic Interaction Detection (CHAID), Five C’s (5C), and Random Forest.
+All works are documented in Persian language and provided by Majid Zoughy Roudsary and Parvin Shahsavand.
